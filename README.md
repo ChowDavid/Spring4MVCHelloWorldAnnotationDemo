@@ -12,6 +12,10 @@
 - add the tomcat plugin.
 - add war plugin ignore the missing web.xml
 
+## add the Spring config and WebInitConfig java
+- SpringConfiguration.java
+- WebInitializer.java
+
 ## run the code 
 - mvn clean install tomcat7:run
 - open a browser localhost:8080
